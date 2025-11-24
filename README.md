@@ -55,7 +55,7 @@ To address these challenges, this project implements a **web-based application**
 
 7. **Backend**
    - Node.js and Express.js runtime environment.
-   - Communicates with MySQL/MongoDB for CRUD operations.
+   - Communicates with MongoDB for CRUD operations.
    - Axios integration for frontend-backend communication.
 
 ---
