@@ -60,5 +60,3 @@ To address these challenges, this project implements a **web-based application**
 
 ---
 
-## Project Structure
-
